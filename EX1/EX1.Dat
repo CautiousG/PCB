@@ -1,0 +1,10 @@
+﻿Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~EX1.PrjPcb|ReportField=ProjectFullPath~F:\AD_Project\EX1\EX1.PrjPcb|ReportField=Title~Bill of Materials For Project [EX1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~16|ReportField=ReportTime~21:38:10|ReportField=ReportDate~2017/02/25|ReportField=ReportDateTime~2017/02/25 21:38:10|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/02/25|ReportField=CurrentTime~21:23:40|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\AD_Project\EX1\EX1.SchDoc|ReportField=DocumentName~EX1.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/02/24|ReportField=Organization~|ReportField=ProjectName~EX1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~ex1|ReportField=DataSourceFileName~EX1.PrjPcb|ReportField=DataSourceFullPath~F:\AD_Project\EX1\EX1.PrjPcb
+Cap|Capacitor|C1, C2, C3, C4, C6, C7|0402|Cap|6
+Cap Pol1|Polarized Capacitor (Radial)|C5|RB7.6-15|Cap Pol1|1
+Inductor|Inductor|L1|0402-A|Inductor|1
+Buzzer|Magnetic Transducer Buzzer|LS1|ABSM-1574|Buzzer|1
+QNPN|NPN Bipolar Transistor|Q1|SOT-23B_N|QNPN|1
+Res2|Resistor|R1, R2, R3|AXIAL-0.4|Res2|3
+ADC-8|Generic 8-Bit A/D Converter|U1|SOT403-1_N|ADC-8|1
+ATmega16L-8PI|8-Bit AVR Microcontroller with 16K Bytes of In-System Programmable Flash Memory|U2|40P6|ATmega16L-8PI|1
+XTAL|Crystal Oscillator|Y1|R38|XTAL|1
